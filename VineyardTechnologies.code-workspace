@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../GitHub/Recitativos-CCB"
+		},
+		{
+			"path": "../VineyardTechnologies.com"
+		},
+		{
+			"path": "../CRPlumbing.biz"
+		},
+		{
+			"path": "../AulaDeInglesEmCasa.com"
+		},
+		{
+			"path": "../.github (Vineyard Technologies)"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "VineyardTechnologies.com"
+	}
+}

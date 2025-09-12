@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use or reference the assets in this repository, please cite it as below."
+authors:
+  - name: "Vineyard Technologies"
+title: "DataLake - Vineyard Technologies Marketing and Brand Assets"
+version: 1.0.0
+date-released: 2025-09-08
+repository-code: "https://github.com/Vineyard-Technologies/DataLake"
+keywords:
+  - marketing
+  - branding
+  - assets
+  - design
+  - logo
+license: "CC-BY-4.0"
